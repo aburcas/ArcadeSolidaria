@@ -1,1 +1,72 @@
+## Actualizaciones Previas
 
+```
+sudo apt update & sudo apt full-upgrade
+```
+
+## Instalación de MAME
+
+```
+sudo apt install mame
+```
+
+## Configracion de MAME
+
+```
+https://www.youtube.com/watch?v=Kz274PT0TNQ&list=PLRjl_O5NyDzUhgd75YEl657zWNtWszkJR&index=4
+```
+
+## Pre instalación de Attract Mode
+
+```
+sudo apt install gcc make linux-headers-$(uname -r)
+```
+
+## Instalación de librerías
+
+```
+sudo apt install xorg-dev libglu1-mesa-dev 
+```
+
+## Instalamos build-essential
+
+```
+sudo apt install build-essential
+```
+
+## Instalación dependencias de Attract Mode
+
+```
+sudo apt-get update && sudo apt-get -y install git libsfml-dev libopenal-dev libavformat-dev libfontconfig1-dev libfreetype6-dev libswscale-dev libavresample-dev libarchive-dev libjpeg-dev libglu1-mesa-dev libxrandr-dev
+
+```
+
+## Descargar paquete 
+
+```
+https://github.com/mickelson/attract/archive/refs/tags/v2.7.0.tar.gz
+```
+
+## Compilar paquete
+
+```
+tar xvzf [nombre de paquete]
+```
+
+## Entramos en la carpeta 
+
+```
+cd [nombre de carpeta]
+```
+
+## make dentro de la carpeta
+
+```
+sudo make
+```
+
+# make install
+
+```
+sudo make install 
+```
