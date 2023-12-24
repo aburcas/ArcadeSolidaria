@@ -1,2 +1,7 @@
 # ArcadeSolidaria
-Instalación y configuración de Mame y Attract Mode
+
+- 💬 Instalación y configuración de **MAME**  **ATTRACT MODE** 
+<!-- - 🌱 
+- 👯 
+- 🤔 
+-  -->
